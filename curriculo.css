@@ -1,0 +1,78 @@
+* { 
+    margin: 0;
+}
+body{
+    background-color: rgb(126, 126, 161);
+}
+header { 
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+}
+.paimain {
+    background-color: white;
+    height: 700px;
+    width: 100%;
+    display: inline-flex;
+}
+.direita img {
+    width: 200px;
+    padding: 50px;
+}
+.esquerda { 
+    background-color: rgba(238, 130, 238, 0.555);
+    width: 70%;
+    display: block;
+}
+.direita { 
+    background-color: rgba(128, 128, 128, 0.623);
+    width: 30%;
+}
+.s1 { 
+    background-color: yellow;
+    height: 30%;
+    text-align: center;
+    padding-top: 50px;
+}
+.s2 { 
+    background-color: brown;
+    height: 48.5%;
+    text-align: center;
+    padding-top: 150px;
+}
+.s3{
+ background-color: black;
+ color: white;
+
+}
+footer { 
+    background-color: green;
+    width: 100%;
+    height: 150px;
+}
+.PAIF { 
+    display: inline-flex;
+    width: 100%;
+    height: 100%;
+}
+.esquerdaf {
+    background-color: blue;
+    width: 30%;
+}
+.meiof{
+    background-color: aqua;
+    width: 20%;
+}
+.direitaf { 
+    padding-top: 50px;
+    background-color: red;
+    width: 30%;
+}
+.espf { 
+    color: green;
+    width: 10%;
+}
+.espf2{
+    color: green;
+    width: 10%;
+}
