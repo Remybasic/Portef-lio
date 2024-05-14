@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="Cabeçalho">
+        <p>Henry de Queiroz Sousa</p>
+    </header>
+
+    <main>
+        <div class="paimain">
+            <div class="esquerda">
+                <div class="s1">
+                    <section>Hobbies:</section>
+                    <p>Pratico esportes como futsal, futebol entre outros, a música é um hobbie que desde a minha infância eu tenho um contato direto com instrumentos e outras coisas da</p>
+                </div>
+                <div class="s2">
+                    
+                    <section>Opniões sobre acontecimentos atuais:</section>
+                    <p>As enchente que estão acontecendo atualmente na região do RS tem afetado direto a todo o Brasil como um  profissional eu penso em todas as pessoas afetadas os seus empregos ... e como posso ajuda-los maneiras de como fazer com situações como estas não venha impedir o progresso profissional da população</p>
+                </div>
+            </div>
+        <div class="direita">
+                <img src="./imagens/WhatsApp Image 2024-05-14 at 08.58.03.jpeg" alt="">
+        </div>
+    </div>
+    <footer>
+        <div class="PAIF">
+            <div class="esquerdaf">
+                <img src="./imagens/facebook-logo.png" alt="">
+            </div>
+            <div class="espf">
+                a
+            </div>
+            <div class="meiof">
+                <img src="./imagens/instagram-logo.png" alt="">
+            </div>
+            <div class="espf2">
+                a
+            </div>
+        <div class="direitaf">
+            <img src="./imagens/linkedin-logo.png" alt="">
+        </div>
+        </div>
+    </footer>
+
+</body>
+</html>
